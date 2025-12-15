@@ -16,15 +16,15 @@ It allows users to log in, submit triage case details, and get predictions using
 ---
 
 ## Project Structure
-├── app.py # Main Streamlit app
-├── home.py # Home page
-├── login.py # Login page
-├── register.py # Register page
-├── case_report.py # Triage case input
-├── forget_password.py # Password reset page
-├── ktas_model.pkl # Trained ML model
-├── requirements.txt # Dependencies
-├── images/ # Images (if any)
+├─ app.py # Main Streamlit app
+├─ home.py # Home page
+├─ login.py # Login page
+├─ register.py # Register page
+├─ case_report.py # Triage case input
+├─ forget_password.py # Password reset page
+├─ ktas_model.pkl # Trained ML model
+├─ requirements.txt # Dependencies
+├─ images/ # Images (if any)
 
 ## How to Run the App
 
